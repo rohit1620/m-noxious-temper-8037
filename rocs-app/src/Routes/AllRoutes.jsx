@@ -5,6 +5,8 @@ import Home from '../Pages/Home';
 import Jibbitz from '../Pages/Jibbitz';
 import Sale from '../Pages/Sale';
 import Women from '../Pages/Women';
+import Men from '../Pages/Men';
+import Kids from '../Pages/Kids';
 import {Route,Routes} from 'react-router-dom'
 
 const AllRoutes = () => {
@@ -16,7 +18,9 @@ const AllRoutes = () => {
         <Route path='/Featured' element={<Featured />} />
         <Route path='/Jibbitz' element={<Jibbitz />} />
         <Route path='/Sale' element={<Sale />} />
-        <Route path='/Women ' element={<Women  />} />
+        <Route path='/Women' element={<Women  />} />
+        <Route path='/Men' element={<Men  />} />
+        <Route path='/Kids' element={<Kids  />} />
       </Routes>
     </div>
   )

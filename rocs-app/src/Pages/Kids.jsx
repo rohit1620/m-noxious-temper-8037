@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Man = () => {
+const Kids = () => {
   return (
     <div>
-      <h1>Man page</h1>
+      <h1>kids page</h1>
     </div>
   )
 }
 
-export default Man
+export default Kids
