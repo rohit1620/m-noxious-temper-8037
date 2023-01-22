@@ -57,7 +57,7 @@ const Navbar = () => {
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        <button class="btn btn-outline-success" type="submit">Search</button>
+       <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTr1SoTzf4Rr0KXMkcghKkg8J1YrfXVY_QtejteaqW66BKYUi60ZXhaBHg-fR_8BDK900&usqp=CAU" alt="" width="40px" height="40px" style={{marginRight:"20px",marginLeft:"20px"}}/>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-XKWeHYWNDemSIToNlr07OtD7_BmRd8NOU_fIe-Qc&s" alt="" width="40px" height="40px" style={{marginRight:"20px"}}/>
